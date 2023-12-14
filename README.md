@@ -1,22 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1500&pause=500&color=F758A9&background=4B32FF00&center=true&vCenter=true&random=false&width=435&lines=I'm+Brent+King+Valino;Fullstack+Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
-
----
-<div align="center"">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50/>
-  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" width=100/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=50/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50/>
-                                              
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)
 
 
----
+
 
 # 💫 About Me:
 I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about technology and the idea of building from nothing<br>to something, currently I'm interested in Blockchain Technology
@@ -30,7 +15,6 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kngval&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kngval&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kngval&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kngval&theme=radical&no-frame=false&no-bg=false&margin-w=4)
