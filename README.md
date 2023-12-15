@@ -10,7 +10,7 @@
 
 
 
-# <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" align="center" width="200"/> About Me
+# <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" align="center" width="200"/> About Me:
 I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about technology and the idea of building from nothing<br>to something, currently I'm interested in Blockchain Technology
 
 
