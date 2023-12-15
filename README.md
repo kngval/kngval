@@ -1,10 +1,8 @@
-<div align="right">
-  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="100">
-</div>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="100" >
 
 
 
