@@ -2,17 +2,15 @@
 
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="100">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)
 
 
-# <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" align="center" width="200"/> About Me:
+# <img src="https://media.giphy.com/media/eYiTd4Ip9D1SdS3esc/giphy.gif" align="center" width="100"/> About Me:
 I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about technology and the idea of building from nothing<br>to something, currently I'm interested in Blockchain Technology
 
 
-## <img src="https://media.giphy.com/media/tbPw5VZlwzXBGkP0JN/giphy.gif" width="100" align="center"/> Socials:
-
-
-<div align="left">
+# <img src="https://media.giphy.com/media/tbPw5VZlwzXBGkP0JN/giphy.gif" width="100" align="center"/> Socials:
+<div align="center">
   <a href="https://www.facebook.com/kngval21/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -47,7 +45,7 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 </div>
 
 # <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100" align="center"/> Tech Stack:
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -100,13 +98,17 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radicalalign=center)
+### <img src="https://media.giphy.com/media/Sg3d0o2dsKzPOGo7VE/giphy.gif" align="center" width="50"/> Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radicalalign=center" />
+</div>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="center"/>
+### <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50" align="center"/> Random Dev Meme
 
----
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 500px;" />
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=kngval&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
