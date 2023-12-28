@@ -11,7 +11,7 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 
 # <img src="https://media.giphy.com/media/tbPw5VZlwzXBGkP0JN/giphy.gif" width="100" align="center"/> Socials:
 <div align="center">
-  <a href="https://www.facebook.com/kngval21/" target="_blank">
+<!--   <a href="https://www.facebook.com/kngval21/" target="_blank"> -->
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   
