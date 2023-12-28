@@ -10,66 +10,20 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 
 
 # <img src="https://media.giphy.com/media/tbPw5VZlwzXBGkP0JN/giphy.gif" width="100" align="center"/> Socials:
-<div style="display:flex">
-    <div>
-  <a href="https://www.facebook.com/kngval21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-    </div>
+<div align=center>
+    
+<a href="https://www.facebook.com/kngval21/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"></a>
+<a href="https://www.instagram.com/kngval.dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/brent-king-valino-0400aa288/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"></a>
+<a href="https://stackoverflow.com/users/23075881/brent-v" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow"></a>
+<a href="https://twitter.com/kngval_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter"></a>
+<a href="kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"></a>
+<a href="https://linktr.ee/kngval?fbclid=IwAR1OUOwm5dzhH8uzgX4FSLkmHMeRaYH49wID4aWwIwUCABOpYXULYIsD1-c" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree"></a>
+<a href="https://medium.com/@kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium"></a>
+<a href="https://dev.to/kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="Dev.to"></a>
+<a href="mailto:brentvalino61@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"></a>
 
-  <div>
-  <a href="https://www.instagram.com/kngval.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  </div>
-  
-  <div>
-  <a href="https://www.linkedin.com/in/brent-king-valino-0400aa288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  </div>
 
-  <div>
-  <a href="https://stackoverflow.com/users/23075881/brent-v" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="https://twitter.com/kngval_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="kngval" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="https://linktr.ee/kngval?fbclid=IwAR1OUOwm5dzhH8uzgX4FSLkmHMeRaYH49wID4aWwIwUCABOpYXULYIsD1-c" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="https://medium.com/@kngval" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="https://dev.to/kngval" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  </div>
-
-  <div>
-  <a href="brentvalino61@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  </div>
 
   
 </div>
