@@ -87,16 +87,13 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 ### <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50" align="center"/> Random Dev Meme
 
 <div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 500px;" />
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=kngval&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
 
 
 
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@kngval&theme=radical" alt="Layout with last medium posts"  />
+
 
 
 
