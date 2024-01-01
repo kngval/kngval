@@ -95,9 +95,9 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
 
 
-<div align="center">
+
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@kngval&theme=radical" alt="Layout with last medium posts"  />
-</div>
+
 
 
 
