@@ -71,24 +71,9 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kngval&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-  
- 
- ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mjobl4khvd5w3n7xxmfwodmdm&width=1000)
 
 
 
-### <img src="https://media.giphy.com/media/Sg3d0o2dsKzPOGo7VE/giphy.gif" align="center" width="50"/> Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radicalalign=center" />
-</div>
-
-### <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="50" align="center"/> Random Dev Meme
-
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
-</div>
 
 
 
