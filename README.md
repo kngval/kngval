@@ -62,7 +62,7 @@ I'm a Full-Stack Web Developer and a Tech Enthusiast.<br>I'm passionate about te
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-<img align="right" height="200" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+
 
 
   ###
