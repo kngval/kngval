@@ -7,6 +7,7 @@
 
 I'm a Full-Stack Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through game changing innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
+#### Currently learning Game Development! 🎮🕹️🚀
 
 <h3 align="left">👨🏻‍💻 Socials</h3>
 <div align="center">
