@@ -72,9 +72,6 @@ I'm a Backend Developer always intrigued by new technologies & passionate about 
  
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
  
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="32" alt="discord logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="32" alt="discordjs logo"  />
 </div>
 
 ###
