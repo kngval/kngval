@@ -1,10 +1,8 @@
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=67A9F7&width=435&lines=I+USE+ARCH+BTW.)](https://git.io/typing-svg)
 
-
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&color=F78C8C&random=false&width=435&lines=I'm+Brent+King+Valino;I'm+a+Full-Stack+Web+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)
-
-
+</div>
 I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through game changing innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
 #### Currently learning Game Development! 🎮🕹️🚀
