@@ -31,7 +31,7 @@ I'm a Backend Developer always intrigued by new technologies & passionate about 
 <div align="left">
 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="32" alt="linux logo"  />
-
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="32" alt="arch linux logo"  />
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="32" alt="neovim logo"  />
 <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="32" alt="csharp logo"  />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="32" alt="dot-net logo"  />
