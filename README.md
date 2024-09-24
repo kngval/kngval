@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=67A9F7&width=435&lines=I+USE+ARCH+BTW.)](https://git.io/typing-svg)
 
 </div>
-I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through game changing innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
+I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through tech innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
 
 <h3 align="left">👨🏻‍💻 Socials</h3>
