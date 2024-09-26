@@ -14,9 +14,6 @@ I'm a Backend Developer always intrigued by new technologies & passionate about 
 <a href="https://stackoverflow.com/users/23075881/brent-v" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow"></a>
 <a href="https://twitter.com/kngval_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter"></a>
 <a href="kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"></a>
-<a href="https://linktr.ee/kngval?fbclid=IwAR1OUOwm5dzhH8uzgX4FSLkmHMeRaYH49wID4aWwIwUCABOpYXULYIsD1-c" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree"></a>
-<a href="https://medium.com/@kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium"></a>
-<a href="https://dev.to/kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="Dev.to"></a>
 <a href="mailto:brentvalino61@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"></a>
 </div>
 
