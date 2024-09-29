@@ -3,6 +3,9 @@
 <img src="https://media1.tenor.com/m/wfBrR397QusAAAAC/cyberpunk-cyberpunk-2077.gif" width="100%" height=300/>
 
 </div>
+
+###
+###
 I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through tech innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
 
