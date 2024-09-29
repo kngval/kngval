@@ -1,13 +1,12 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=67A9F7&width=435&lines=I+USE+ARCH+BTW.)](https://git.io/typing-svg)
+<img src="https://media1.tenor.com/m/wfBrR397QusAAAAC/cyberpunk-cyberpunk-2077.gif" width="100%" height=300/>
 
 </div>
 I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through tech innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
 
 
-<img src="https://i.pinimg.com/1200x/a2/99/16/a29916572415c516c5ac489604aed012.jpg" width="100%"/>
   
 <br clear="both">
 
