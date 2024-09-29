@@ -6,18 +6,8 @@
 I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through tech innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
 
-<h3 align="left">👨🏻‍💻 Socials</h3>
-<div align="center">
-<a href="https://www.facebook.com/kngval21/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"></a>
-<a href="https://www.instagram.com/kngval.dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/brent-king-valino-0400aa288/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/23075881/brent-v" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow"></a>
-<a href="https://twitter.com/kngval_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter"></a>
-<a href="kngval" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"></a>
-<a href="mailto:brentvalino61@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"></a>
-</div>
 
-
+<img src="https://i.pinimg.com/1200x/a2/99/16/a29916572415c516c5ac489604aed012.jpg" width="100%"/>
   
 <br clear="both">
 
