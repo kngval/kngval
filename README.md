@@ -1,14 +1,15 @@
-<div align="center">
- 
-<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" width="100%" height=200 />
 
-</div>
+
+
+<img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" width="100%" height=200 />
+
+
 
 ###
 
-🚀 Hi I'm Brent Valino
+🚀 Hi I'm __Brent Valino__ !
  
-I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code.
+I'm a *Backend Developer* always intrigued by new technologies & passionate about building technologies with lines of code.
 Visioning the world a better place through tech innovations.
 
 I'm a self-taught developer. Always thriving to be a better developer to build better efficient solutions & approach to problems.
