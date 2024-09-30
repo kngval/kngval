@@ -12,7 +12,8 @@
 I'm a *Backend Developer* always intrigued by new technologies & passionate about building technologies with lines of code.
 Visioning the world a better place through tech innovations.
 
-I'm a self-taught developer. Always thriving to be a better developer to build better efficient solutions & approach to problems.
+I'm a self-taught developer. Always thriving to be a better developer to build better efficient solutions & approach to problems. I'm always learning and refining my skills, exploring new ways to make systems faster, more reliable, and easier to maintain. The backend is my playground, and I love every part of it!
+
 
   
 <br clear="both">
