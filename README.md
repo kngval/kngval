@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://media1.tenor.com/m/wfBrR397QusAAAAC/cyberpunk-cyberpunk-2077.gif" width="100%" height=300/>
+<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" width="100%" height=250 />
 
 </div>
 
