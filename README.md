@@ -5,10 +5,13 @@
 </div>
 
 ###
-###
-I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code. Visioning the world a better place through tech innovations. Always thriving to be a better developer, to build better, efficient solutions & approach to problems.
 
+🚀 Hi I'm Brent Valino
+ 
+I'm a Backend Developer always intrigued by new technologies & passionate about building technologies with lines of code.
+Visioning the world a better place through tech innovations.
 
+I'm a self-taught developer. Always thriving to be a better developer to build better efficient solutions & approach to problems.
 
   
 <br clear="both">
