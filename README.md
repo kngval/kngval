@@ -14,8 +14,9 @@ Visioning the world a better place through tech innovations.
 
 I'm a self-taught developer. Always thriving to be a better developer to build better efficient solutions & approach to problems. I'm always learning and refining my skills, exploring new ways to make systems faster, more reliable, and easier to maintain. The backend is my playground, and I love every part of it!
 
-*- i use arch btw*.
-  
+<div align="right">
+ - i use arch btw.
+</div>
 <br clear="both">
 
 <h3 align="left">🛠 Languages, Tools & Frameworks</h3>
