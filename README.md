@@ -23,7 +23,7 @@ I'm a self-taught developer. Always thriving to be a better developer to build b
 
 ###
 
-<div align="left">
+<div align="center">
 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="32" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="32" alt="arch linux logo"  />
